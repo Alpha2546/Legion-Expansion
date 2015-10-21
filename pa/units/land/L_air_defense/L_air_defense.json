@@ -23,6 +23,9 @@
       "effect_spec": "/pa/effects/specs/default_muzzle_flash.pfx socket_muzzle /pa/effects/specs/bullet_shells.pfx socket_muzzle"
     }
   },
+	"selection_icon": {
+		"diameter": 16
+	},   
   "guard_layer": "WL_Air",
   "max_health": 1000,
   "mesh_bounds": [
